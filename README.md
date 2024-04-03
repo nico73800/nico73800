@@ -1,3 +1,4 @@
+# Little presentation
 - 👋 Hi, I’m @nico73800 AKA Nicolas CHALOYARD
 - 👀 I’m interested in coding 
 - 🌱 i'm coding in : Swift, Ada, JavaScript, PHP, etc.
