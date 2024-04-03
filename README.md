@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @nico73800 AKA Nicolas CHALOYARD
 - 👀 I’m interested in coding 
-- 🌱 i'm coding in : Swift, Ada, JavaScript, PHP
+- 🌱 i'm coding in : Swift, Ada, JavaScript, PHP, etc.
+
+# I love to...
+- Lean new things like new technology (new programming languages, new software, etc.)
+- Talk to new people
+- Explore new places 
 
 <!---
 nico73800/nico73800 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
